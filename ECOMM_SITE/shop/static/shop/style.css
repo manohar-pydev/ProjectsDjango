@@ -1,0 +1,12 @@
+.card-text{
+    color:green;
+    font-weight:800;
+}
+.card-title{
+    font-weight:900;
+}
+ul.no-bullets {
+  list-style-type: none; 
+  padding: 0;
+  margin: 0; 
+}
